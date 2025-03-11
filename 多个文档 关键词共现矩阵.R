@@ -1,3 +1,9 @@
+install.packages("shiny")    # 安装 Shiny
+install.packages("XML")      # 安装 XML 解析库
+install.packages("stringr")  # 安装字符串处理库
+install.packages("dplyr")    # 安装数据操作库
+
+
 library(shiny)
 library(XML)
 library(stringr)
